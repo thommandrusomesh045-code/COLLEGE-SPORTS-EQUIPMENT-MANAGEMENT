@@ -1,0 +1,86 @@
+{
+  "equipment" : [ {
+    "id" : 1,
+    "name" : "Ball",
+    "sport" : "cricket",
+    "totalQuantity" : 1,
+    "availableQuantity" : 0,
+    "issuedQuantity" : 0,
+    "damagedQuantity" : 1
+  }, {
+    "id" : 2,
+    "name" : "Ball",
+    "sport" : "Volley ball",
+    "totalQuantity" : 2,
+    "availableQuantity" : 2,
+    "issuedQuantity" : 0,
+    "damagedQuantity" : 0
+  }, {
+    "id" : 3,
+    "name" : "shot put ball",
+    "sport" : "shot put game",
+    "totalQuantity" : 5,
+    "availableQuantity" : 5,
+    "issuedQuantity" : 0,
+    "damagedQuantity" : 0
+  }, {
+    "id" : 4,
+    "name" : "badminton bat",
+    "sport" : "batminton",
+    "totalQuantity" : 2,
+    "availableQuantity" : 2,
+    "issuedQuantity" : 0,
+    "damagedQuantity" : 0
+  } ],
+  "history" : [ {
+    "id" : 1,
+    "equipmentId" : 1,
+    "equipmentName" : "Ball",
+    "studentName" : "bhaskar",
+    "studentRollNo" : "a4",
+    "issuedQuantity" : 1,
+    "returnedQuantity" : 1,
+    "damagedQuantity" : 1,
+    "issueDate" : "2026-11-09T15:28:04.760002100",
+    "lastReturnDate" : "2026-11-09T15:28:17.129994800",
+    "pendingQuantity" : 0
+  }, {
+    "id" : 2,
+    "equipmentId" : 2,
+    "equipmentName" : "Ball",
+    "studentName" : "Somesh",
+    "studentRollNo" : "10",
+    "issuedQuantity" : 2,
+    "returnedQuantity" : 2,
+    "damagedQuantity" : 0,
+    "issueDate" : "2026-11-09T16:21:49.800286400",
+    "lastReturnDate" : "2026-11-09T16:25:55.136601800",
+    "pendingQuantity" : 0
+  }, {
+    "id" : 3,
+    "equipmentId" : 3,
+    "equipmentName" : "shot put ball",
+    "studentName" : "satya",
+    "studentRollNo" : "11",
+    "issuedQuantity" : 2,
+    "returnedQuantity" : 2,
+    "damagedQuantity" : 0,
+    "issueDate" : "2026-11-09T16:24:28.294455500",
+    "lastReturnDate" : "2026-11-09T16:25:28.410647500",
+    "pendingQuantity" : 0
+  }, {
+    "id" : 4,
+    "equipmentId" : 4,
+    "equipmentName" : "badminton bat",
+    "studentName" : "manikanta",
+    "studentRollNo" : "a8",
+    "issuedQuantity" : 1,
+    "returnedQuantity" : 1,
+    "damagedQuantity" : 0,
+    "issueDate" : "2026-11-09T16:30:53.540772900",
+    "lastReturnDate" : "2026-11-09T16:31:16.015549200",
+    "pendingQuantity" : 0
+  } ],
+  "nextEquipmentId" : 5,
+  "nextIssueId" : 5
+}
